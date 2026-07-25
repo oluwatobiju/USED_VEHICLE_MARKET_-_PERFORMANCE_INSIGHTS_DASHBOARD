@@ -34,8 +34,8 @@ The primary objective is to provide actionable business intelligence for automot
 **Dashboard**
 <img width="1350" height="713" alt="Used Vehicle Market   Performace Insights Dashboard" src="https://github.com/user-attachments/assets/b75d0bdf-3cad-4ae3-b536-93531a82417d" />
 
-**Dataset and Requirements**
-- Raw Dataset: Due to file size limitations (>25mb), the raw dataset can be from here https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
+**Dataset**
+- Raw Dataset: Due to file size limitations (>25mb), the raw dataset can be downloaded from here https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data
 
   
   
